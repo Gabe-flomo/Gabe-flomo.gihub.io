@@ -4,7 +4,7 @@
 title: Gabe Flomo
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: ""
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-col: "#A2666F"
 navbar-text-col: "#000022"
-navbar-children-col: "#A2666F"
+navbar-children-col: "#F49390"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#E63462"
