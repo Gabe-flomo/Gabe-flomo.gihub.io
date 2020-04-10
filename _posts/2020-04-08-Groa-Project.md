@@ -1,3 +1,12 @@
+---
+layout: post
+title: Groa
+subtitle: an elegant Movie Recommendation Engine
+gh-repo: Gabe-flomo/Groa
+gh-badge: [star, fork, follow]
+comments: true
+---
+
 ## Project Description
 
 
