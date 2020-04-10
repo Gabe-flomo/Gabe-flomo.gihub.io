@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AirBnb optimal price
-subtitle: Each post also has a subtitle
+subtitle: Find whats right for you
 gh-repo: AirBnb-Optimal-price-2
 gh-badge: [star, fork, follow]
 comments: true
