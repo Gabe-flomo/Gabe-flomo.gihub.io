@@ -2,7 +2,7 @@
 layout: post
 title: AirBnb optimal price
 subtitle: Each post also has a subtitle
-gh-repo: https://github.com/AirBnb-Optimal-price-2
+gh-repo: AirBnb-Optimal-price-2
 gh-badge: [star, fork, follow]
 comments: true
 ---
